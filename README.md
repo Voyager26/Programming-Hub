@@ -1,3 +1,3 @@
 # Hello World
-## Day 1 study program
-### 2018.8.7
+## Day 2 study program
+### 2018.8.8

@@ -4,11 +4,17 @@
 Today i made a game（guess game weitten in C language.Here are the code.
 
 #include<stdio.h>
+
 #include<stdlib.h>
+
 #include<time.h>
+
 #include<unistd.h>
+
 int main()
+
 {
+    
     srand(time(NULL));
     int price = rand() % 1000;          //随机生成1000以下数字
     int guess;                          //猜测价格
